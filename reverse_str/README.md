@@ -1,1 +1,0 @@
-Received this as a whiteboard test and kind of bombed it because I forgot about string slicing.

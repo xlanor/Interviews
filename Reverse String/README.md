@@ -1,0 +1,1 @@
+Reverse a string word by word while maintaining the spacing between words.
